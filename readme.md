@@ -30,7 +30,7 @@ Projects must be submitted before **Nov. 29th at 11:59PM**
 A project showcase will be held in early January (date TBD). Each team should be prepared to show off their project on this day. Free pizza will be provided at this event. The **Presentation** section of the scoring rubric will be completed at this event.
 
 # Requirements
-Teams of 3-4 BYU students will compete to create a computer program that meets the requirements given in the prompt. Projects will be submitted by the submission deadline listed above. Any coding language may be used. Submissions will be judged using the most recent Ubuntu LTS image (located [here](https://releases.ubuntu.com/22.04/ubuntu-22.04.1-desktop-amd64.iso)) running as a virtual machine using the Gnome desktop environment. Testing using this environment is highly encouraged.
+Teams of 2-4 BYU students will compete to create a computer program that meets the requirements given in the prompt. Projects will be submitted by the submission deadline listed above. Any coding language may be used. Submissions will be judged using the most recent Ubuntu LTS image (located [here](https://releases.ubuntu.com/22.04/ubuntu-22.04.1-desktop-amd64.iso)) running as a virtual machine using the Gnome desktop environment. Testing using this environment is highly encouraged.
 
 As part of the submission, sufficient instructions should be included to download, install, and run your submission including any dependencies not included by default in the Ubuntu image listed. If judges are unable to run your submission on the operating environment described above, they may contact your team for further instruction which will result in a penalty to the **Usability and Utility** portion of the scoring rubric.
 

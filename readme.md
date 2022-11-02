@@ -18,7 +18,7 @@ Teams will be scored according to the rubric below. Prizes will be awarded to th
 
 # Schedule
 ## Pre-competition
-Teams are free to form at any time. Note the bonus points for team structure at the bottom of the scoring rubric.
+Teams are free to form at any time. Note the bonus points for team structure at the bottom of the scoring rubric. The team signup form can be found [here](https://forms.gle/ovfAUayaXnXKxXUu8).
 
 ## Beginning
 Work on projects may begin at the announcement of the prompt on November 8th at 5pm.

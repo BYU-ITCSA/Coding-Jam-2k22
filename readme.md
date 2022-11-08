@@ -12,9 +12,11 @@ Teams will be scored according to the rubric below. Prizes will be awarded to th
 | 2nd | $200 |
 | 3rd | $100 |
 
->## ⚠️ **Note**
->The prompt will be published on [GitHub](https://github.com/BYU-ITCSA/Coding-Jam-2k22) when the competition starts on 
-> ### **November 8th at 5PM Mountain Time**
+> # Prompt
+> ### **As a team, create a command line based game.** 
+> It should include:
+> * a method of scoring performance in the game
+> * run in a terminal (see requirements)
 
 # Schedule
 ## Pre-competition
@@ -39,7 +41,7 @@ Teams will be required to answer a brief survey after the competition ends.
 # Non-requirements
 
 ## Photos
-Because this event is made possible by the Weidman Center for Global Leadership, we encourage teams to take photos during the Jam that we can share with them.
+Because this event is made possible by the Weidman Center for Global Leadership, we encourage teams to take photos during the Jam that we can share with them. This is not required as part of the submission
 
 ## Style
 Because this competition is higly time-constrained, there are no requirements for code readability or styling. 

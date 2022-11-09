@@ -14,8 +14,8 @@ Teams will be scored according to the rubric below. Prizes will be awarded to th
 
 > # Prompt
 > ### **As a team, create a command line based game.** 
-> It should include:
-> * a method of scoring performance in the game
+> It should:
+> * include a method of scoring performance in the game
 > * run in a terminal (see requirements)
 
 # Schedule
